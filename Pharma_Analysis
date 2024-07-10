@@ -1,0 +1,20 @@
+Project Title: SQL Data Analysis Project
+
+Description:
+This folder contains SQL scripts and queries used for a comprehensive data analysis project. The project involves various operations, including data extraction, transformation, and loading (ETL), data cleaning, and complex queries for insights generation.
+
+Contents:
+01_Data_Exploratory.sql: SQL scripts for exploratoring data.
+02_Data_Transformation.sql: Scripts for transforming raw data into a structured format.
+03_Data_Cleaning.sql: Queries used for cleaning and preparing data for analysis.
+04_Data_Analysis.sql: Advanced SQL queries for performing data analysis and generating insights.
+05_Data_Visualization.sql: Scripts for preparing data for visualization tools.
+
+Key Features:
+Utilizes advanced SQL functions such as window functions, CTEs.
+Includes examples of data aggregation, and filtering.
+Demonstrates how to handle NULL values and perform data validation.
+Contains performance optimization techniques for large datasets.
+
+Purpose:
+The purpose of this project is to showcase practical SQL skills for data analysis. It aims to provide examples and templates for common data operations, making it a valuable resource for anyone looking to enhance their SQL proficiency in the context of data analysis.
