@@ -1,0 +1,1 @@
+Data Analyst with a strong practical background and expertise in the data field. Skilled in SQL, Python, Power BI, database design, and data visualization. Dedicated to implementing data-driven solutions and fostering strategic growth. Eager to apply my passion for data analysis and problem-solving in a dynamic team environment to drive business growth and innovation
